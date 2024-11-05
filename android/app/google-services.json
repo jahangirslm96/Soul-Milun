@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "906291118551",
+    "firebase_url": "https://soul-milun-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "soul-milun",
+    "storage_bucket": "soul-milun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906291118551:android:3128824aacceb5526dcb92",
+        "android_client_info": {
+          "package_name": "com.example.image_proccing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906291118551-03j1sakfoe4v5ub6qk9kunj6o4kqppq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.image_proccing_app",
+            "certificate_hash": "c249227891fc62b76feb881f15dd49615ec38f60"
+          }
+        },
+        {
+          "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIf7I74dxmixPKpBmR0XnRxU0dchbLubE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906291118551-qljp5iq3s9jbthm6rb3p4k09al6aqfrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soulMilan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906291118551:android:accad4afb48086506dcb92",
+        "android_client_info": {
+          "package_name": "com.example.soul_milan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906291118551-8aldv8gkuir4aai59lti6dfe6dj7i3an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soul_milan",
+            "certificate_hash": "c249227891fc62b76feb881f15dd49615ec38f60"
+          }
+        },
+        {
+          "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIf7I74dxmixPKpBmR0XnRxU0dchbLubE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906291118551-qljp5iq3s9jbthm6rb3p4k09al6aqfrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soulMilan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906291118551:android:449030cc3f24fe586dcb92",
+        "android_client_info": {
+          "package_name": "com.techforaap.soulmilun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906291118551-1igcdikrs91dfi0op60lnnrqbbaqb197.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techforaap.soulmilun",
+            "certificate_hash": "a39650ace3b78f54b43d23a5b4f3654a3adece42"
+          }
+        },
+        {
+          "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIf7I74dxmixPKpBmR0XnRxU0dchbLubE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906291118551-3o2pb18fe4199v8njckfkpl9opn2t0jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906291118551-qljp5iq3s9jbthm6rb3p4k09al6aqfrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soulMilan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
